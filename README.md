@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jonathan-07
 - 👀 I’m interested in machine learning and data science
 - 🌱 I’m currently learning more about deep learning
-- 💞️ I’m looking for employment in the programming field
+- 💞️ As a physics masters graduate with extensive experience in Python, I’m currently looking for employment in the programming field
 - 📫 How to reach me: https://www.linkedin.com/in/jonathan-drake07/
